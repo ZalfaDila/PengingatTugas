@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611062262416",
+    "project_id": "pengingattugas-aa10d",
+    "storage_bucket": "pengingattugas-aa10d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611062262416:android:3529dc6ecdeb41c52dc615",
+        "android_client_info": {
+          "package_name": "com.example.pengingattugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyPiKKCgNjElMD9hZSh7w6IInGulrinY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
